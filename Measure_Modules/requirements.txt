@@ -1,0 +1,3 @@
+bme280
+smbus2
+spidev
